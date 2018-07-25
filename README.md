@@ -1,7 +1,9 @@
 # Bestest Side-Bar Annihilator for Redmine
 
-This plugin adds a button that hides or shows Redmine's side-bar. No per-view/per-controller state, no `z-index` hacks
-that interferes with fullscreen views, no nonsense. When it's hidden, it stays hidden until you chose to show it again.
+This plugin adds a button that hides or shows Redmine's side-bar. No
+per-view/per-controller state, no `z-index` hacks that interferes with
+fullscreen views, no nonsense. When it's hidden, it stays hidden until
+you choose to show it again.
 
 Simple!
 
