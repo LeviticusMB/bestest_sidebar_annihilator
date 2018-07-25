@@ -1,0 +1,13 @@
+#bestest_sidebar_annihilator {
+    float:             right;
+    margin:            6px 10px 0px 0px;
+    width:             24px;
+    height:            24px;
+    background-image:  url(../images/_ionicons_svg_ios-close-circle-outline.svg);
+    background-repeat: no-repeat;
+}
+
+.nosidebar #bestest_sidebar_annihilator {
+    margin:            0px 0px 0px 10px;
+    background-image:  url(../images/_ionicons_svg_ios-arrow-dropleft.svg);
+}
